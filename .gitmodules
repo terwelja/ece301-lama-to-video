@@ -1,3 +1,6 @@
 [submodule "lama"]
 	path = lama
 	url = https://github.com/saic-mdal/lama
+[submodule "TRACER"]
+	path = TRACER
+	url = https://github.com/Karel911/TRACER
