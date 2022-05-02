@@ -1,1 +1,1 @@
-# just submodule hosting stuff for our colab
+# just stuff for our colab
